@@ -1,0 +1,18 @@
+.Player-wrapper {
+    /* background: burlywood; */
+    display: flex;
+    justify-content: space-around;
+  }
+
+.Player-container {
+    height: 300px;
+    width: 200px;
+    background: #282828;
+    color: white;
+}
+
+.Player-container img {
+    height: 100px;
+    width: 100px;
+    margin-top: 40px;
+}
